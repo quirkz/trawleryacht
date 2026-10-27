@@ -614,7 +614,7 @@ strong {
 
 @media (min-width: 880px) {
   .lede-block {
-    grid-template-columns: minmax(0, 1.55fr) minmax(0, 0.45fr);
+    grid-template-columns: minmax(0, 1.5fr) minmax(0, 0.5fr);
   }
 }
 
@@ -631,8 +631,8 @@ strong {
 
 .motto {
   font-family: var(--serif);
-  font-size: clamp(1.35rem, 1.1rem + 0.8vw, 1.75rem);
-  line-height: 1.25;
+  font-size: clamp(1.25rem, 1.05rem + 0.55vw, 1.55rem);
+  line-height: 1.28;
   padding-left: 1.25rem;
   border-left: 2px solid var(--brass);
   margin: 0;
