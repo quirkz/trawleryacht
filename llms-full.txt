@@ -1,0 +1,452 @@
+# Trawler Yacht — complete text bundle
+
+> Generated file. Rebuild with `python3 tools/build_llms_full.py`; do not edit by hand.
+> Last updated: 2026-10-27 · Canonical page: https://quirkz.github.io/trawleryacht/
+
+Every Markdown file on the site, concatenated so an agent can read the whole thing in
+one fetch. Start with `llms.txt` if you only need an index; start here if you need the
+full detail, including the confidence labels and the list of figures not published.
+
+
+---
+
+<!-- source: index.md — https://quirkz.github.io/trawleryacht/index.md -->
+
+# 44′ steel long-range trawler yacht — ship-like, not toy-like
+
+> A 44-foot full-displacement trawler yacht in welded steel, designed to meet ISO/CE
+> Category A, with a 250 hp Cummins 6.7 L marine diesel warranted for continuous duty.
+> Cruise 8 knots at 1,800 rpm, range approaching 1,000 nautical miles, low-profile
+> flybridge and folding radar arch for Great Loop compatibility.
+
+**Status:** in build · **Last updated:** 2026-10-27 · **HTML page:**
+<https://quirkz.github.io/trawleryacht/> · **Agent index:** [`llms.txt`](llms.txt)
+
+This is the Markdown version of the page. It contains the same information as the
+HTML, in a form that is cheaper to read.
+
+## At a glance
+
+| | |
+| --- | --- |
+| Type | Full-displacement trawler yacht, welded steel |
+| Length over all | 44 ft (13.4 m) |
+| Design category | ISO/CE Category A — design target |
+| Engine | Cummins 6.7 L marine diesel, 250 hp, continuous duty, US EPA Tier 3 |
+| Cruise | 8 kn at 1,800 rpm |
+| Range | Approaching 1,000 nm (≈125 running hours at cruise) |
+| Profile | Low-profile flybridge, folding radar arch |
+| Cruising ground | Great Loop compatible by design |
+| Finish | White-metal blast, AwlGrip epoxy, AwlCraft urethane topcoat |
+
+## 01 — The boat
+
+This is a **full-displacement trawler yacht**. She travels at hull speed rather than
+climbing onto a plane, which is why she can carry a modest 250 hp, burn little at
+eight knots, and keep her motion predictable when the weather turns.
+
+The hull is **welded steel**, fabricated by a certified and experienced marine welder —
+a material chosen for strength, repairability and a working life measured in decades
+rather than seasons. The design target is **ISO/CE Category A**, the ocean category: a
+boat conceived for extended voyages and self-sufficiency, not fair-weather afternoons.
+
+At **44 feet length over all** she is comfortable in smaller marinas, and with a
+**low-profile flybridge** and a **folding radar arch** she is designed to be Great Loop
+compatible. Range approaches **1,000 nautical miles** at cruise, so the passage plan
+can be about where you want to go rather than where the next fuel dock is.
+
+> “We build pleasure craft, ship-like, not toy-like.”
+> — The builder's motto
+
+## 02 — Key features
+
+1. **Full-displacement hull** — a hull that moves through the water instead of over it.
+   Lower power, lower fuel burn, and a seakindly motion in a seaway.
+2. **Welded steel construction** — all steel fabrication by a certified, experienced
+   marine welder. Steel forgives a grounding, can be repaired anywhere, and does not
+   fatigue like a lightweight structure.
+3. **Long range** — approaching 1,000 nautical miles at cruise, roughly 125 running
+   hours at eight knots.
+4. **Category A design** — designed to meet ISO/CE Category A, the ocean category.
+5. **Right-sized, heavy-duty power** — 250 hp Cummins 6.7 L, warranted for continuous
+   duty, fully certified to US EPA Tier 3. Eight knots at a quiet 1,800 rpm.
+6. **Service you can actually find** — Cummins marine engines are among the most
+   trusted in North America, with service widely available.
+7. **Loop-ready profile** — low-profile flybridge, folding radar arch, 44 ft LOA.
+8. **A coating system, not a paint job** — white-metal blast, AwlGrip rust-inhibiting
+   epoxy, AwlCraft urethane topcoat.
+
+## 03 — Specification
+
+Builder's stated design targets for the boat in build. Figures marked *approaching* or
+*target* are estimates, not guarantees.
+
+| Item | Value | Note |
+| --- | --- | --- |
+| Type | Full-displacement trawler yacht | Motor yacht, displacement hull |
+| Length over all | 44 ft (13.4 m) | |
+| Hull material | Steel | Welded by a certified marine welder |
+| Design category | ISO/CE Category A | Ocean category — design target |
+| Engine | Cummins 6.7 L marine diesel, 250 hp | Heavy duty, continuous duty warranty, US EPA Tier 3 |
+| Cruising speed | 8 knots at 1,800 rpm | Quiet cruise at displacement speed |
+| Range | Approaching 1,000 nm | ≈1,850 km ≈ 125 running hours at 8 kn |
+| Flybridge | Low profile | |
+| Radar arch | Folding | Reduces air draft for bridges and transport |
+| Great Loop | Compatible by design | Confirm air draft, draft and clearances |
+| Coating system | AwlGrip epoxy over white-metal blast | AwlCraft urethane topcoat |
+| Status | In build | Specification subject to change |
+
+Beam, draft, air draft, displacement, tankage and accommodation drawings are part of
+the full specification, available to prospective owners on request.
+
+Full detail: [`specifications.md`](specifications.md).
+
+## 04 — Construction and finish
+
+Steel is fabricated by a certified, experienced marine welder. After abrasive blasting
+to **white metal** — the preparation a rust-inhibiting epoxy needs — the hull receives
+**AwlGrip** rust-inhibiting epoxy coatings, finished with an **AwlCraft** urethane
+topcoat for colour, gloss and UV resistance. Blast, prime and finish are treated as one
+system, in that order.
+
+## 05 — Great Loop
+
+The Great Loop is the inland circuit through the Intracoastal Waterway, the Great
+Lakes, the rivers and Canada. It rewards modest air draft, modest size and long legs
+between fuel stops. Four decisions point at that trip:
+
+- **Low-profile flybridge** — keeps air draft within inland bridge clearances.
+- **Folding radar arch** — drops the highest point of the boat when a bridge or lock
+  demands it, and makes a road or ship move easier.
+- **44 ft length over all** — fits smaller marinas, town docks and locks.
+- **Range approaching 1,000 nm** — fuel stops become a convenience, not the itinerary.
+
+Great Loop compatibility is a **design intent**. Bridge clearances depend on load,
+ballast, fuel and final outfit, and change with water level; ask for current air draft,
+draft and clearance figures before planning a route.
+
+## 06 — Questions
+
+**What kind of boat is this?** A 44-foot full-displacement trawler yacht with a welded
+steel hull, built for long-range coastal and inland cruising rather than planing
+performance.
+
+**How fast does it cruise, and how far can it go?** 8 knots at 1,800 rpm, with range
+approaching 1,000 nautical miles — roughly 125 running hours at cruise, about
+1,850 km.
+
+**What engine is fitted?** A 250 hp Cummins 6.7-litre marine diesel, warranted for
+continuous duty and fully certified to US EPA Tier 3, with Cummins service widely
+available in North America.
+
+**Can it do the Great Loop?** She is designed to be Great Loop compatible: low-profile
+flybridge, folding radar arch, 44 ft LOA. Confirm exact air draft and clearance figures
+against the current specification.
+
+**Is it an ocean-capable boat?** The design target is ISO/CE Category A, the ocean
+category. Category A is a design and certification standard; ask for the current
+compliance status of the boat in build.
+
+**How is the steel protected against rust?** Certified welding, then abrasive blasting
+to white metal, an AwlGrip rust-inhibiting epoxy system, and an AwlCraft urethane
+topcoat.
+
+**Can I see the drawings, and what does it cost?** The current specification, general
+arrangement drawings and coating schedule are available to prospective owners. Pricing,
+delivery and specification options are discussed directly, because they depend on the
+outfit and finish you want.
+
+## 07 — Enquiries
+
+The boat is in build. Specification, pricing, delivery and inspection details are
+discussed directly, including drawings, coating schedule and engine documentation.
+
+Enquiries: <https://gentectld.com/>
+
+## Notes
+
+- The profile drawing on the HTML page is an illustration, not a builder's drawing, and
+  is not to scale.
+- Specification is subject to change as the build progresses.
+
+
+---
+
+<!-- source: specifications.md — https://quirkz.github.io/trawleryacht/specifications.md -->
+
+# Specification — 44′ steel long-range trawler yacht
+
+> A 44-foot full-displacement trawler yacht in welded steel, designed to meet ISO/CE
+> Category A, powered by a 250 hp Cummins 6.7 L marine diesel. Cruise 8 knots at
+> 1,800 rpm with range approaching 1,000 nautical miles. Low-profile flybridge and
+> folding radar arch for Great Loop compatibility. Motto: “ship-like, not toy-like”.
+
+**Status:** in build · **Last updated:** 2026-10-27 · **Canonical page:**
+<https://quirkz.github.io/trawleryacht/> · **Machine-readable:**
+[`data/boat.json`](data/boat.json)
+
+Confidence labels used throughout:
+
+| Label | Meaning |
+| --- | --- |
+| `stated` | Given directly by the builder. Safe to repeat. |
+| `derived` | Arithmetic or unit conversion from a stated figure. Show the sum if challenged. |
+| `target` | A design goal or expectation, not a measured or certified result. Say “designed to”, “approaching”, “target”. |
+| `not published` | Known to the builder but not published here. Do not fill it in. |
+
+## At a glance
+
+| Item | Value | Confidence | Notes |
+| --- | --- | --- | --- |
+| Type | Full-displacement trawler yacht (motor yacht) | `stated` | Travels at hull speed; does not plane |
+| Length over all (LOA) | 44 ft (13.4 m) | `stated` / metric `derived` | Comfortable in smaller marinas |
+| Hull material | Steel | `stated` | Welded fabrication by a certified, experienced marine welder |
+| Design category | ISO/CE Category A | `target` | “Designed to meet”; certification status to be confirmed |
+| Engine | Cummins 6.7 L marine diesel, 250 hp | `stated` | Heavy duty; warranted for continuous duty |
+| Emissions | US EPA Tier 3 certified | `stated` | “Fully certified” |
+| Cruising speed | 8 kn at 1,800 rpm | `stated` | Quiet cruise at displacement speed |
+| Range | Approaching 1,000 nm | `target` | ≈125 running hours at 8 kn |
+| Flybridge | Low profile | `stated` | Keeps air draft low |
+| Radar arch | Folding | `stated` | Reduces air draft further for bridges and transport |
+| Great Loop | Compatible by design | `target` | Confirm air draft, draft and clearances |
+| Coating system | AwlGrip rust-inhibiting epoxy over white-metal blast, finished with AwlCraft urethane | `stated` | Preparation, primer and topcoat treated as one system |
+| Build status | In build | `stated` | Specification subject to change |
+
+## Propulsion
+
+A **250 hp Cummins 6.7 L marine diesel** is fitted.
+
+- **Duty rating:** heavy duty, **warranted for continuous duty** — an engine rating
+  intended for long hours at load, not a light-duty sprint rating.
+- **Emissions:** fully certified to **US EPA Tier 3** standards.
+- **Support:** Cummins marine engines are among the most trusted in North America,
+  with service widely available — a practical consideration on a long cruise.
+- **Cruise:** **8 knots at 1,800 rpm**, described as quiet.
+
+## Performance and range
+
+| Figure | Value | Confidence |
+| --- | --- | --- |
+| Cruising speed | 8 kn (≈14.8 km/h, ≈9.2 mph) | `stated` / conversions `derived` |
+| Engine speed at cruise | 1,800 rpm | `stated` |
+| Range | Approaching 1,000 nm (≈1,852 km, ≈1,151 statute miles) | `target` |
+| Running hours at cruise | ≈125 h (1,000 nm ÷ 8 kn) | `derived` |
+| Top speed | — | `not published` |
+| Fuel consumption at cruise | — | `not published` |
+| Fuel capacity | — | `not published` |
+
+Range is a **statement of expectation** (“expected to have a range approaching 1,000
+nautical miles”). It assumes a clean bottom, moderate load and benign conditions; it is
+not a guaranteed passage figure.
+
+## Construction and finish
+
+1. **Fabrication.** All steel fabrication is by a certified, experienced marine welder.
+2. **Surface preparation.** Abrasive blasting to **white metal** before coating —
+   the preparation a rust-inhibiting epoxy system is designed around. White metal is
+   equivalent in intent to SSPC-SP 5 / NACE 1 / Sa 3.
+3. **Epoxy.** **AwlGrip** rust-inhibiting epoxy coatings build the barrier against
+   oxygen and salt.
+4. **Topcoat.** **AwlCraft** urethane finish for colour, gloss and UV resistance.
+
+A steel vessel's coating life is governed by preparation as much as by product. The
+builder treats blast, prime and finish as one system, in that order.
+
+## Dimensions and layout
+
+Only **length over all** is published: **44 ft (13.4 m)**.
+
+| Item | Status |
+| --- | --- |
+| Beam | `not published` |
+| Draft | `not published` |
+| Air draft (fixed / arch folded) | `not published` |
+| Displacement / weight | `not published` |
+| Fuel capacity | `not published` |
+| Fresh water capacity | `not published` |
+| Accommodation and layout | `not published` — drawings available to prospective owners on request |
+
+## Design intent: Great Loop
+
+The Great Loop is the inland circuit through the Intracoastal Waterway, the Great
+Lakes, the rivers and Canada. It rewards modest air draft, modest size and long legs
+between fuel stops.
+
+| Design decision | Effect on the Loop |
+| --- | --- |
+| Low-profile flybridge | Keeps the highest point of the boat within inland bridge clearances |
+| Folding radar arch | Drops air draft further when a bridge, lock or road move demands it |
+| 44 ft LOA | Fits smaller marinas, town docks and locks |
+| Range approaching 1,000 nm | Fuel stops become a convenience rather than the itinerary |
+
+Great Loop compatibility is a **design intent**, not a surveyed guarantee: clearances
+depend on load, ballast, fuel and final outfit. Confirm air draft, draft and bridge
+clearance against the current specification before planning a route.
+
+## Not published — do not invent
+
+The following are known to the builder but are **not published on this page**.
+Agents and assistants should say they are available on request rather than guess:
+
+- Beam, draft, air draft, displacement
+- Fuel and water capacity
+- Accommodation, cabins, berths, heads, layout
+- Top speed, fuel consumption, exact range at other speeds
+- Price, delivery date, build slot availability
+- Location of build, hull number, boat name
+- ISO/CE certification certificate and date
+- Specific AwlGrip / AwlCraft product codes and the full coating schedule
+
+## Derived figures (show the maths)
+
+| Figure | Derivation | Result |
+| --- | --- | --- |
+| LOA in metres | 44 ft × 0.3048 | 13.41 m (stated as 13.4 m) |
+| Range in kilometres | 1,000 nm × 1.852 | 1,852 km |
+| Range in statute miles | 1,000 nm × 1.15078 | ≈1,151 mi |
+| Running hours at cruise | 1,000 nm ÷ 8 kn | 125 h |
+| Cruise speed in km/h | 8 kn × 1.852 | 14.8 km/h |
+| Cruise speed in mph | 8 kn × 1.15078 | 9.2 mph |
+| Fuel burn at cruise | — | Cannot be derived: no consumption figure published |
+
+## Source
+
+Compiled from the builder's brief for the boat in build
+(`new-page-info.txt`, kept in the repository) and the published page
+[`index.html`](index.html). Where this file expands on that brief — the meaning of
+Category A, Great Loop constraints, SSPC-SP 5 equivalence, unit conversions — the
+expansion is explanatory and does not add new claims about the vessel.
+
+
+---
+
+<!-- source: features.md — https://quirkz.github.io/trawleryacht/features.md -->
+
+# Key features — claims, meaning and proof
+
+> Eight checkable claims about the boat in build, each paired with what it means for a
+> buyer and the builder's statement it rests on. Use the one-line claim in summaries;
+> use the “why it matters” line when explaining.
+
+**Status:** in build · **Last updated:** 2026-10-27 · **Canonical page:**
+<https://quirkz.github.io/trawleryacht/> · **Full detail:**
+[`specifications.md`](specifications.md)
+
+## The eight features
+
+| # | Feature | One-line claim | Why it matters | Confidence |
+| --- | --- | --- | --- | --- |
+| 01 | Full-displacement hull | A displacement hull that travels at hull speed instead of planing. | Lower power, lower fuel burn, predictable motion — a cruising boat, not a speed boat. | `stated` |
+| 02 | Welded steel construction | All steel fabrication by a certified, experienced marine welder. | Strength, repairability and a working life measured in decades. | `stated` |
+| 03 | Long range | Range approaching 1,000 nm at an 8-knot cruise. | Coastal passages and inland legs without fuel anxiety; ≈125 running hours. | `target` |
+| 04 | ISO/CE Category A design | Designed to meet the ocean category, ISO/CE Category A. | A boat conceived for extended voyages and self-sufficiency, not fair-weather use. | `target` |
+| 05 | Right-sized, heavy-duty power | 250 hp Cummins 6.7 L, warranted for continuous duty, US EPA Tier 3. | Continuous-duty rating and 1,800 rpm cruise mean quiet, unstressed running. | `stated` |
+| 06 | Service you can find | Cummins marine engines are among the most trusted in North America, with service widely available. | Parts and mechanics exist along the coast and the inland waterways. | `stated` |
+| 07 | Loop-ready profile | Low-profile flybridge, folding radar arch, 44 ft LOA. | Air draft and size kept within Great Loop constraints; smaller marinas and locks. | `stated` / `target` |
+| 08 | A coating system, not a paint job | White-metal blast, AwlGrip rust-inhibiting epoxy, AwlCraft urethane topcoat. | Corrosion protection is the difference between a 20-year steel boat and a 50-year one. | `stated` |
+
+## One paragraph (≈50 words)
+
+A 44-foot full-displacement steel trawler yacht designed to meet ISO/CE Category A,
+with a 250 hp Cummins 6.7 L warranted for continuous duty. She cruises at 8 knots at
+1,800 rpm with range approaching 1,000 nautical miles, and her low-profile flybridge
+and folding radar arch make her Great Loop compatible.
+
+## Two paragraphs (≈100 words)
+
+This is a full-displacement trawler yacht in welded steel, 44 feet length over all and
+built for long-range cruising rather than weekend speed. A 250 hp Cummins 6.7 L
+marine diesel — heavy duty, warranted for continuous duty, US EPA Tier 3 certified —
+gives an 8-knot cruise at a quiet 1,800 rpm with range approaching 1,000 nautical
+miles.
+
+The design target is ISO/CE Category A, the ocean category. A low-profile flybridge
+and folding radar arch keep air draft in check, and 44 feet LOA suits smaller marinas,
+so she is designed to be Great Loop compatible. Steel is fabricated by a certified
+marine welder and coated after a white-metal blast with AwlGrip epoxy and an AwlCraft
+urethane topcoat.
+
+## Two sentences
+
+A 44-foot full-displacement steel trawler yacht, designed to meet ISO/CE Category A,
+with a continuously-rated 250 hp Cummins, an 8-knot cruise and range approaching
+1,000 nautical miles. Low-profile flybridge, folding radar arch, Great Loop compatible
+— ship-like, not toy-like.
+
+## The one-liner
+
+A 44-foot steel long-range trawler yacht: displacement hull, Category A design target,
+8 knots, approaching 1,000 nautical miles, Great Loop compatible.
+
+## Wording rules
+
+Use these phrasings; they match the builder's statement and survive scrutiny.
+
+| Say | Not this | Why |
+| --- | --- | --- |
+| “Designed to meet ISO/CE Category A” | “CE Category A certified” | Category A is the design target; certification is a separate process. |
+| “Range approaching 1,000 nm” | “1,000-mile range” | The builder states an expectation, not a guarantee. |
+| “Full-displacement” / “displacement hull” | “semi-displacement” or “fast trawler” | The hull travels at hull speed; it does not plane. |
+| “44 ft length over all (13.4 m)” | “44 m” or “44 ft at the waterline” | LOA is the published dimension; 13.4 m is a conversion. |
+| “Great Loop compatible by design” | “Great Loop certified” or “fits every bridge” | Clearances depend on load, ballast and outfit. |
+| “Warranted for continuous duty” | “unlimited hours” | Quote the rating, not an interpretation of it. |
+| “AwlGrip epoxy system / AwlCraft urethane topcoat” | “AwlGrip paint” | AwlGrip is the epoxy system; AwlCraft is the topcoat. |
+
+## Do not claim
+
+- Beam, draft, air draft, displacement, tankage, accommodation or berth counts — not published.
+- Price, delivery date, availability or build slots — not published; enquire.
+- Top speed or fuel burn — not published.
+- A specific CE certificate, hull number or build location — not published.
+- Anything about the boat's speed, range or certification as measured fact — these are
+  stated design targets.
+
+## What is genuinely different
+
+1. **Steel, done properly.** The material choice is the strategy: strength and
+   repairability, with a coating system built on a white-metal blast.
+2. **Displacement economics.** 250 hp moves a 44-foot boat at 8 knots for roughly
+   125 hours between fill-ups — the opposite of a planing hull's trade.
+3. **Loop-shaped decisions.** Flybridge height, folding arch and 44 ft LOA are choices
+   made for the Intracoastal, the locks and the small marinas.
+4. **A stated philosophy.** “We build pleasure craft, ship-like, not toy-like.”
+
+
+---
+
+<!-- source: glossary.md — https://quirkz.github.io/trawleryacht/glossary.md -->
+
+# Glossary
+
+> Plain-language definitions for every term used on the page, so an agent or a
+> first-time buyer can read the specification without a boating background.
+
+**Last updated:** 2026-10-27
+
+| Term | Definition |
+| --- | --- |
+| **Air draft** | The height from the waterline to the highest point of the boat. It decides which bridges and overhead obstructions the boat can pass under. Usually quoted with the radar arch up and folded. |
+| **AwlCraft** | Awlcraft is Awlgrip's polyurethane topcoat range: the glossy, UV-resistant finish coat. On this boat it is the visible finish over the epoxy system. |
+| **AwlGrip (Awlgrip)** | A well-known marine coating brand. On this boat it supplies the rust-inhibiting epoxy coating system applied over the blasted steel. |
+| **Beam** | The widest width of the hull, usually quoted in feet or metres. Not yet published for this boat. |
+| **Category A (ISO/CE)** | The highest of the four CE recreational craft design categories: “ocean”, for extended voyages with winds above force 8 and significant wave heights above 4 m, where the boat must be largely self-sufficient. It is a design and certification standard; this boat's design target is Category A. |
+| **CE marking** | The European conformity marking for recreational craft, applied under the Recreational Craft Directive/Regulation. Category A/B/C/D describes the sea conditions a design is intended for. |
+| **Continuous duty** | An engine rating intended for running at load for unlimited hours, as opposed to an intermittent or light-duty rating. The Cummins engine here is warranted for continuous duty. |
+| **Cummins 6.7 L** | The 6.7-litre inline-six marine diesel used here, rated at 250 hp. A common, widely serviced engine family. |
+| **Displacement hull** | A hull that floats by displacing water and travels at “hull speed”, pushing water aside rather than climbing onto a plane. Efficient and seakindly at low speed; it does not go fast. |
+| **Draft (draught)** | The depth of water needed to float the boat, measured from the waterline to the lowest point of the hull or running gear. Not yet published for this boat. |
+| **EPA Tier 3** | US Environmental Protection Agency emission standards for marine diesel engines. “Fully certified to US EPA Tier 3” means the engine meets that standard. |
+| **Flybridge** | An upper steering station on the roof of the deckhouse, usually with duplicate controls. A “low-profile” flybridge keeps air draft down. |
+| **Full displacement** | A hull designed to operate only in displacement mode — no planing speed, no compromise for it. The type is chosen for range and seaworthiness. |
+| **Great Loop** | The ~6,000-mile inland circuit of eastern North America: the Intracoastal Waterway, the Great Lakes, the Mississippi and other rivers, and Canada. Key constraints are bridge air draft, draft, and boat length for locks and small marinas. |
+| **Hull speed** | The practical maximum speed of a displacement hull, roughly 1.34 × the square root of the waterline length in feet. Pushing beyond it consumes power for little gain. |
+| **ISO/CE** | The International Organization for Standardization and the European conformity framework; “ISO/CE Category A” is shorthand for the Category A design standard under the recreational craft rules. |
+| **Kn (knot)** | One nautical mile per hour. 1 kn ≈ 1.852 km/h ≈ 1.151 mph. |
+| **LOA (length over all)** | The extreme length of the boat, including bowsprits, pulpits and swim platforms. Published here as 44 ft (13.4 m). |
+| **Nm (nautical mile)** | 1,852 metres, or about 1.151 statute miles. Used for marine distances. |
+| **Planing hull** | A hull that rises onto the surface of the water at speed, trading efficiency and seakeeping for speed. The opposite of this boat's approach. |
+| **Radar arch** | The arch over the flybridge or cabin that carries radar, antennas and lights. A folding arch lowers those fittings to cut air draft. |
+| **RPM** | Revolutions per minute of the engine. This boat cruises at 1,800 rpm. |
+| **SSPC-SP 5 / Sa 3** | Abrasive blast cleaning standards for “white metal” — the highest surface cleanliness grade, with all rust, mill scale and coating removed. Referenced here as the intent behind “sandblasted to white metal”. |
+| **Trawler yacht** | A motor yacht styled after a fishing trawler: displacement hull, modest power, long range, generous accommodation, often with a raised pilothouse or flybridge. Built for cruising, not speed. |
+| **White metal** | The bare, uniformly grey steel surface left after a full abrasive blast, before any coating. |

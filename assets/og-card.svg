@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="t d">
+  <title id="t">44-foot steel long-range trawler yacht — ship-like, not toy-like</title>
+  <desc id="d">Social preview card: the headline “Ship-like, not toy-like” above a line profile of a steel trawler yacht.</desc>
+
+  <defs>
+    <radialGradient id="glow" cx="82%" cy="-10%" r="90%">
+      <stop offset="0" stop-color="#d6a469" stop-opacity="0.18"/>
+      <stop offset="0.55" stop-color="#d6a469" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="sea" cx="8%" cy="115%" r="75%">
+      <stop offset="0" stop-color="#2c6663" stop-opacity="0.42"/>
+      <stop offset="0.6" stop-color="#2c6663" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="#08181f"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <rect width="1200" height="630" fill="url(#sea)"/>
+
+  <!-- brand -->
+  <g transform="translate(64 44) scale(0.95)">
+    <g fill="none" stroke="#d6a469" stroke-width="1.8" stroke-linejoin="round">
+      <path d="M5 20h22l-3.6 5.4H8.6z"/>
+      <path d="M9.5 20v-3.6h13V20"/>
+      <path d="M14 16.4V12h4.4v4.4"/>
+    </g>
+    <path d="M3 28h26" stroke="#d6a469" stroke-width="1.2" opacity=".45"/>
+  </g>
+  <text x="104" y="60" font-family="P052, Palatino, 'Palatino Linotype', serif" font-size="21" fill="#f7f3ea">Trawler Yacht</text>
+  <text x="104" y="80" font-family="'DejaVu Sans Mono', monospace" font-size="10" letter-spacing="2.2" fill="#a9bcc2">GENTEC LTD. · IN BUILD</text>
+
+  <!-- headline -->
+  <text x="62" y="200" font-family="P052, Palatino, 'Palatino Linotype', serif" font-size="84" letter-spacing="-2" fill="#f7f3ea">Ship-like,</text>
+  <text x="62" y="282" font-family="P052, Palatino, 'Palatino Linotype', serif" font-size="84" letter-spacing="-2" font-style="italic" fill="#d6a469">not toy-like.</text>
+
+  <!-- rule + subline -->
+  <path d="M64 316h360" stroke="#d6a469" stroke-width="1" opacity=".45"/>
+  <text x="64" y="346" font-family="'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="2.4" fill="#a9bcc2">44 FT STEEL · CAT A · 1,000 NM</text>
+
+  <!-- boat profile -->
+  <g transform="translate(155 352) scale(0.74)" fill="none" stroke="#f7f3ea" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M40 214 L40 270 C40 286 52 296 74 297 L1004 297 C1058 297 1102 286 1132 250 L1160 170 C980 192 760 210 520 217 C350 221 155 218 40 214 Z" fill="#f7f3ea" fill-opacity="0.05" stroke-width="1.9"/>
+    <path d="M380 220 L380 156 Q380 150 387 150 L892 150 L938 202 L938 220" fill="#f7f3ea" fill-opacity="0.05" stroke-width="1.9"/>
+    <path d="M436 150 L436 118 Q436 112 443 112 L790 112 L812 150" fill="#f7f3ea" fill-opacity="0.05" stroke-width="1.9"/>
+
+    <g fill="#08181f" stroke-width="1.1">
+      <rect x="432" y="166" width="84" height="30" rx="1.5"/>
+      <rect x="528" y="166" width="84" height="30" rx="1.5"/>
+      <rect x="624" y="166" width="84" height="30" rx="1.5"/>
+      <rect x="720" y="166" width="84" height="30" rx="1.5"/>
+      <polygon points="816,166 870,166 892,196 838,196"/>
+      <polygon points="773,116 789,114 806,147 790,148"/>
+    </g>
+
+    <g stroke-width="1.3" opacity=".85">
+      <path d="M618 112 L640 64 L652 64 L632 112"/>
+      <path d="M766 112 L742 64 L730 64 L750 112"/>
+      <path d="M640 64 Q691 54 742 64"/>
+      <path d="M640 64 L634 30"/>
+      <path d="M742 64 L746 46"/>
+      <ellipse cx="691" cy="46" rx="26" ry="13"/>
+      <path d="M665 58 L717 58"/>
+      <path d="M44 222 C350 229 700 225 1155 178" opacity=".45"/>
+      <path d="M92 250 C420 254 760 251 1002 244" opacity=".28"/>
+      <path d="M952 181 L1150 158"/>
+      <path d="M952 181 L952 199"/>
+      <path d="M1000 175 L1000 195"/>
+      <path d="M1050 171 L1050 192"/>
+      <path d="M1100 166 L1100 187"/>
+      <path d="M1145 158 L1145 179"/>
+    </g>
+
+    <path d="M16 276 L1184 276" stroke="#d6a469" stroke-width="1.2" stroke-dasharray="7 6" opacity=".7"/>
+  </g>
+
+  <!-- footer -->
+  <path d="M64 592h1072" stroke="#f7f3ea" stroke-width="1" opacity=".14"/>
+  <text x="64" y="616" font-family="'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="2.2" fill="#7d9097">GENTECLD.COM</text>
+  <text x="1136" y="616" text-anchor="end" font-family="'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="2.2" fill="#7d9097">SHIP-LIKE, NOT TOY-LIKE.</text>
+</svg>

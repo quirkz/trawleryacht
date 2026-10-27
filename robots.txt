@@ -1,0 +1,37 @@
+# robots.txt for the trawleryacht project site.
+# Note: a project site is served from a subpath, so this file is advisory and
+# sits at /trawleryacht/robots.txt rather than the origin root.
+
+User-agent: *
+Allow: /
+
+# AI crawlers and agents are explicitly welcome: the site publishes an
+# llms.txt index and Markdown versions of every page.
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://quirkz.github.io/trawleryacht/sitemap.xml

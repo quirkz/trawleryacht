@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "schema": "boat-facts/v1",
+    "last_updated": "2026-10-27",
+    "canonical_page": "https://quirkz.github.io/trawleryacht/",
+    "markdown_page": "https://quirkz.github.io/trawleryacht/index.md",
+    "confidence_levels": {
+      "stated": "Given directly by the builder. Safe to repeat verbatim in substance.",
+      "derived": "Arithmetic or unit conversion from a stated figure.",
+      "target": "A design goal or expectation, not a measured or certified result. Say 'designed to', 'approaching' or 'target'.",
+      "not_published": "Known to the builder but not published here. Do not invent a value."
+    }
+  },
+  "boat": {
+    "working_title": "44′ Steel Long-Range Trawler Yacht",
+    "name": null,
+    "type": "full-displacement trawler yacht",
+    "hull_material": "steel",
+    "status": "in build",
+    "motto": "We build pleasure craft, ship-like, not toy-like.",
+    "builder": {
+      "name": "Gentec Ltd.",
+      "url": "https://gentectld.com/"
+    }
+  },
+  "facts": [
+    {
+      "id": "type",
+      "label": "Type",
+      "value": "full-displacement trawler yacht",
+      "display": "Full-displacement trawler yacht",
+      "confidence": "stated",
+      "note": "Displacement hull; travels at hull speed and does not plane."
+    },
+    {
+      "id": "length_overall",
+      "label": "Length over all",
+      "value": 44,
+      "unit": "ft",
+      "display": "44 ft",
+      "metric": { "value": 13.4, "unit": "m" },
+      "confidence": "stated",
+      "note": "Metric figure is a conversion (44 ft x 0.3048 = 13.41 m)."
+    },
+    {
+      "id": "hull_material",
+      "label": "Hull material",
+      "value": "steel",
+      "display": "Steel",
+      "confidence": "stated",
+      "note": "All steel fabrication by a certified, experienced marine welder."
+    },
+    {
+      "id": "design_category",
+      "label": "Design category",
+      "value": "ISO/CE Category A",
+      "display": "ISO/CE Category A",
+      "confidence": "target",
+      "note": "Stated as 'designed to meet'. Category A is the ocean category; certification status to be confirmed."
+    },
+    {
+      "id": "engine",
+      "label": "Engine",
+      "value": "Cummins 6.7 L marine diesel",
+      "display": "Cummins 6.7 L marine diesel, 250 hp",
+      "power": { "value": 250, "unit": "hp" },
+      "confidence": "stated",
+      "note": "Heavy-duty engine, warranted for continuous duty."
+    },
+    {
+      "id": "emissions",
+      "label": "Emissions certification",
+      "value": "US EPA Tier 3",
+      "display": "US EPA Tier 3 certified",
+      "confidence": "stated",
+      "note": "'Fully certified for US EPA Tier 3 emissions standards'."
+    },
+    {
+      "id": "cruise_speed",
+      "label": "Cruising speed",
+      "value": 8,
+      "unit": "kn",
+      "display": "8 kn at 1,800 rpm",
+      "engine_rpm": 1800,
+      "confidence": "stated",
+      "note": "Described as quiet. 8 kn = 14.8 km/h = 9.2 mph."
+    },
+    {
+      "id": "range",
+      "label": "Range",
+      "value": 1000,
+      "unit": "nmi",
+      "display": "Approaching 1,000 nm",
+      "confidence": "target",
+      "note": "Expectation, not a guarantee. ~125 running hours at 8 kn; 1,000 nmi = 1,852 km."
+    },
+    {
+      "id": "flybridge",
+      "label": "Flybridge",
+      "value": "low profile",
+      "display": "Low profile",
+      "confidence": "stated",
+      "note": "Keeps air draft within inland bridge clearances."
+    },
+    {
+      "id": "radar_arch",
+      "label": "Radar arch",
+      "value": "folding",
+      "display": "Folding",
+      "confidence": "stated",
+      "note": "Reduces air draft further for bridges, locks or transport."
+    },
+    {
+      "id": "great_loop",
+      "label": "Great Loop compatibility",
+      "value": "compatible by design",
+      "display": "Great Loop compatible",
+      "confidence": "target",
+      "note": "Design intent. Clearances depend on load, ballast, fuel and final outfit."
+    },
+    {
+      "id": "coating_system",
+      "label": "Coating system",
+      "value": "AwlGrip rust-inhibiting epoxy over white-metal blast; AwlCraft urethane topcoat",
+      "display": "AwlGrip epoxy + AwlCraft urethane",
+      "confidence": "stated",
+      "note": "Blasted to white metal before coating; treated as one system."
+    },
+    {
+      "id": "build_status",
+      "label": "Build status",
+      "value": "in build",
+      "display": "In build",
+      "confidence": "stated",
+      "note": "Specification subject to change."
+    },
+    {
+      "id": "service_network",
+      "label": "Engine service",
+      "value": "Cummins service widely available in North America",
+      "display": "Cummins service widely available",
+      "confidence": "stated",
+      "note": "Builder's statement about the Cummins marine network."
+    }
+  ],
+  "features": [
+    { "id": "full_displacement", "name": "Full-displacement hull", "summary": "A hull that moves through the water instead of over it: lower power, lower fuel burn, seakindly motion." },
+    { "id": "steel", "name": "Welded steel construction", "summary": "Certified, experienced marine welder; strength, repairability and long life." },
+    { "id": "range", "name": "Long range", "summary": "Approaching 1,000 nmi at cruise, about 125 running hours at 8 kn." },
+    { "id": "category_a", "name": "Category A design", "summary": "Designed to meet ISO/CE Category A, the ocean category." },
+    { "id": "power", "name": "Right-sized, heavy-duty power", "summary": "250 hp Cummins 6.7 L, continuous-duty warranty, US EPA Tier 3, 8 kn at 1,800 rpm." },
+    { "id": "service", "name": "Service you can find", "summary": "Cummins marine engines are among the most trusted in North America, with service widely available." },
+    { "id": "loop", "name": "Loop-ready profile", "summary": "Low-profile flybridge, folding radar arch, 44 ft LOA for Great Loop compatibility." },
+    { "id": "coatings", "name": "Coating system, not a paint job", "summary": "White-metal blast, AwlGrip epoxy, AwlCraft urethane topcoat." }
+  ],
+  "faq": [
+    {
+      "question": "What kind of boat is this?",
+      "answer": "A 44-foot, full-displacement trawler yacht with a welded steel hull, built for long-range coastal and inland cruising rather than planing performance."
+    },
+    {
+      "question": "How fast does it cruise, and how far can it go?",
+      "answer": "Cruising speed is 8 knots at a quiet 1,800 rpm, with range approaching 1,000 nautical miles - roughly 125 running hours at cruise speed, about 1,850 km."
+    },
+    {
+      "question": "What engine is fitted?",
+      "answer": "A 250 hp Cummins 6.7-litre marine diesel: heavy duty, warranted for continuous duty, fully certified to US EPA Tier 3, with Cummins service widely available in North America."
+    },
+    {
+      "question": "Can it do the Great Loop?",
+      "answer": "She is designed to be Great Loop compatible: low-profile flybridge and folding radar arch keep air draft in check, and 44 ft LOA suits smaller marinas and locks. Confirm exact clearances against the current specification."
+    },
+    {
+      "question": "Is it an ocean-capable boat?",
+      "answer": "The design target is ISO/CE Category A, the ocean category for extended voyages. Category A is a design and certification standard; ask for the current compliance status of the boat in build."
+    },
+    {
+      "question": "How is the steel protected against rust?",
+      "answer": "Certified welding, abrasive blasting to white metal, an AwlGrip rust-inhibiting epoxy coating system, and an AwlCraft urethane topcoat."
+    },
+    {
+      "question": "Can I see the drawings, and what does it cost?",
+      "answer": "The current specification, general arrangement drawings and coating schedule are available to prospective owners. Pricing, delivery and specification options are discussed directly; enquire via https://gentectld.com/."
+    }
+  ],
+  "not_published": [
+    "beam",
+    "draft",
+    "air draft (arch up or folded)",
+    "displacement / weight",
+    "fuel capacity",
+    "fresh water capacity",
+    "accommodation, cabins, berths, heads, layout",
+    "top speed",
+    "fuel consumption at cruise",
+    "price",
+    "delivery date / build slots",
+    "build location, hull number, boat name",
+    "ISO/CE certification certificate and date",
+    "specific AwlGrip / AwlCraft product codes"
+  ],
+  "derived": [
+    { "id": "loa_metres", "expression": "44 ft x 0.3048", "value": 13.41, "unit": "m" },
+    { "id": "range_km", "expression": "1000 nmi x 1.852", "value": 1852, "unit": "km" },
+    { "id": "range_miles", "expression": "1000 nmi x 1.15078", "value": 1151, "unit": "mi" },
+    { "id": "running_hours", "expression": "1000 nmi / 8 kn", "value": 125, "unit": "h" },
+    { "id": "cruise_kmh", "expression": "8 kn x 1.852", "value": 14.8, "unit": "km/h" },
+    { "id": "cruise_mph", "expression": "8 kn x 1.15078", "value": 9.2, "unit": "mph" }
+  ],
+  "sources": [
+    {
+      "id": "builder_brief",
+      "kind": "primary",
+      "path": "new-page-info.txt",
+      "note": "The builder's original statement, kept in the repository."
+    },
+    {
+      "id": "published_page",
+      "kind": "derived",
+      "path": "index.html",
+      "note": "Customer-facing page written from the brief."
+    }
+  ]
+}

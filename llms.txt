@@ -1,0 +1,51 @@
+# Trawler Yacht — Gentec Ltd.
+
+> A 44-foot full-displacement trawler yacht in welded steel, in build, designed to meet
+> ISO/CE Category A. 250 hp Cummins 6.7 L marine diesel warranted for continuous duty;
+> 8 knots cruise at 1,800 rpm; range approaching 1,000 nautical miles. Low-profile
+> flybridge and folding radar arch make her Great Loop compatible. Motto: “ship-like,
+> not toy-like”.
+
+This is the agent index for the site. It covers the boat's published facts, the
+customer-facing page, and the machine-readable forms of both.
+
+Key points, stated precisely:
+
+- **Hull:** full displacement, welded steel, fabricated by a certified marine welder.
+- **Power:** 250 hp Cummins 6.7 L, heavy duty, warranted for continuous duty, fully
+  certified to US EPA Tier 3. 8 kn at a quiet 1,800 rpm.
+- **Range:** *approaching* 1,000 nm — a design expectation, not a guarantee.
+- **Category:** the design target is ISO/CE Category A (ocean). It is **not** published
+  as certified; do not describe it as CE certified.
+- **Great Loop:** compatible **by design** — low-profile flybridge, folding radar arch,
+  44 ft LOA. Exact clearances are not published.
+- **Finish:** blasted to white metal, AwlGrip rust-inhibiting epoxy, AwlCraft urethane
+  topcoat.
+- **Not published:** beam, draft, air draft, displacement, tankage, accommodation,
+  top speed, fuel burn, price, delivery. Say these are available on request.
+
+## Pages
+
+- [Overview (Markdown)](https://quirkz.github.io/trawleryacht/index.md): the whole HTML
+  page as Markdown — description, features, specification table, FAQ.
+- [Specification](https://quirkz.github.io/trawleryacht/specifications.md): every
+  published figure with a confidence label, the derived conversions, and the list of
+  figures deliberately not published.
+- [Key features](https://quirkz.github.io/trawleryacht/features.md): eight features as
+  checkable claims, with ready-made descriptions at 1 sentence, 2 sentences, 50 and 100
+  words, plus wording rules and “do not claim”.
+- [Glossary](https://quirkz.github.io/trawleryacht/glossary.md): plain definitions for
+  air draft, displacement hull, Category A, Great Loop, white metal and the rest.
+- [Structured data](https://quirkz.github.io/trawleryacht/data/boat.json): JSON facts
+  with confidence levels, features, FAQ, derived figures and non-published fields.
+
+## Optional
+
+- [Full text bundle](https://quirkz.github.io/trawleryacht/llms-full.txt): every
+  Markdown file above in one document, for a single fetch.
+- [HTML page](https://quirkz.github.io/trawleryacht/): the customer-facing page, with
+  JSON-LD (Product, FAQPage, Organization) and a `data-spec` attribute on each
+  specification row.
+- [Repository](https://github.com/quirkz/trawleryacht): source and edit history.
+  [`AGENTS.md`](https://quirkz.github.io/trawleryacht/AGENTS.md) documents how the
+  content is structured and how to update it.
